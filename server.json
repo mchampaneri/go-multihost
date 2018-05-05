@@ -1,0 +1,12 @@
+{   
+     "sites":[
+        {
+            "incomming":"www.mezone.local:8090",
+            "forward":"www.google.com"
+        },
+        {
+            "incomming":"localhost:9080/b",
+            "forward":"www.mchampaneri.in"
+        }      
+    ]
+}
