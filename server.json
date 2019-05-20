@@ -1,12 +1,12 @@
 {   
      "sites":[
         {
-            "incomming":"www.mezone.local:8090",
-            "forward":"www.google.com"
+            "incomming":"config.dev/",
+            "forward":"http://localhost:8081/"
         },
         {
-            "incomming":"localhost:9080/b",
-            "forward":"www.mchampaneri.in"
-        }      
+            "incomming":"ss.dev/",
+            "forward":"https://www.jio.com/"
+        }        
     ]
 }
